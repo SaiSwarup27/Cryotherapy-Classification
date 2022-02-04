@@ -1,2 +1,2 @@
 # Cryotherapy Classification
-Classification of Cryothe
+Classification of Cryotherapy
