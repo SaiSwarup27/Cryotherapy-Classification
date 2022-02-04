@@ -1,2 +1,2 @@
 # Cryotherapy Classification
-Classification of Cryotherapy
+Classification of Cryotherapy dataset
