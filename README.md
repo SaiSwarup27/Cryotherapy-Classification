@@ -1,3 +1,3 @@
 # Cryotherapy Classification
-Classification of Cryotherapy dataset using
+Classification of Cryotherapy dataset using Logis
 
