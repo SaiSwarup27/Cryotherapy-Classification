@@ -1,3 +1,3 @@
 # Cryotherapy Classification
-Classification of Cryotherapy dataset using Logistic
+Classification of Cryotherapy dataset using Logistic Regression 
 
