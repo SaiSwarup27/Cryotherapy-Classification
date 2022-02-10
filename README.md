@@ -6,8 +6,8 @@ Classification of Cryotherapy dataset using ***Logistic Regression***.
 
 > ## Results 
 - <p align='left'> Result 1 <br/>
-    <img src='https://github.com/SaiSwarup27/Cryotherapy-Classification/blob/master/images/Cryotherapy_result1.png' width=50%/></p>
+    <img src='https://github.com/SaiSwarup27/Cryotherapy-Classification/blob/master/images/Cryotherapy_result1.png' width=45%/></p>
 
 - <p align='right'> Result 2 <br/>
-    <img src='https://github.com/SaiSwarup27/Cryotherapy-Classification/blob/master/images/Cryotherapy_result1.png' width=50%/></p>
+    <img src='https://github.com/SaiSwarup27/Cryotherapy-Classification/blob/master/images/Cryotherapy_result1.png' width=45%/></p>
 
