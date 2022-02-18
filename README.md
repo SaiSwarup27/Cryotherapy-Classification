@@ -9,4 +9,3 @@ Classification of Cryotherapy dataset using ***Logistic Regression***.
     <img width="45%" src="https://github.com/SaiSwarup27/Cryotherapy-Classification/blob/master/images/Cryotherapy_result1.png">
     <img width="45%" src="https://github.com/SaiSwarup27/Cryotherapy-Classification/blob/master/images/Cryotherapy_result2.png">
 </p>
-
