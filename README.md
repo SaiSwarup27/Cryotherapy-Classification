@@ -11,4 +11,3 @@ Classification of Cryotherapy dataset using ***Logistic Regression***.
 </p>
 
 
-
