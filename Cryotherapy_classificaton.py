@@ -48,7 +48,7 @@ Type.grid(row=4,column=1)
 
 label6=tk.Label(master=frame1,text="Area: ")
 label6.grid(row=5,column=0,sticky='e')
-Area=tk.Entry(master=frame1,relief=SUNKEN,width=50)
+Area=tk.Entry(master=frame1,relief=tk.SUNKEN,width=50)
 Area.grid(row=5,column=1)
 
 frame2=tk.Frame(master=window,borderwidth=2)
