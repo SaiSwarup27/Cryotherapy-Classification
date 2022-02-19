@@ -15,10 +15,10 @@ import pickle
 Model = pickle.dumps(model)
 
 import tkinter as tk
-from tkinter.constants import LEFT, RAISED, RIGHT, SUNKEN
+from tkinter.constants import LEFT, RAISED, RIGHT
 window=tk.Tk()
 window.title("Cryotherapy Classification")
-frame1=tk.Frame(master=window,borderwidth=2,width=100,height=100,relief=SUNKEN)
+frame1=tk.Frame(master=window,borderwidth=2,width=100,height=100,relief=tk.SUNKEN)
 frame1.pack()
 
 label1=tk.Label(master=frame1,text="Sex: ")
@@ -28,22 +28,22 @@ sex.grid(row=0,column=1)
 
 label2=tk.Label(master=frame1,text="Age: ")
 label2.grid(row=1,column=0,sticky='e')
-age=tk.Entry(master=frame1,relief=SUNKEN,width=50)
+age=tk.Entry(master=frame1,relief=tk.SUNKEN,width=50)
 age.grid(row=1,column=1)
 
 label3=tk.Label(master=frame1,text="Time: ")
 label3.grid(row=2,column=0,sticky='e')
-Time=tk.Entry(master=frame1,relief=SUNKEN,width=50)
+Time=tk.Entry(master=frame1,relief=tk.SUNKEN,width=50)
 Time.grid(row=2,column=1)
 
 label4=tk.Label(master=frame1,text="Number_of_Warts: ")
 label4.grid(row=3,column=0,sticky='e')
-Number_of_Warts=tk.Entry(master=frame1,relief=SUNKEN,width=50)
+Number_of_Warts=tk.Entry(master=frame1,relief=tk.SUNKEN,width=50)
 Number_of_Warts.grid(row=3,column=1)
 
 label5=tk.Label(master=frame1,text="Type: ")
 label5.grid(row=4,column=0,sticky='e')
-Type=tk.Entry(master=frame1,relief=SUNKEN,width=50)
+Type=tk.Entry(master=frame1,relief=tk.SUNKEN,width=50)
 Type.grid(row=4,column=1)
 
 label6=tk.Label(master=frame1,text="Area: ")
