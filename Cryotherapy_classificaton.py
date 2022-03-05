@@ -74,7 +74,7 @@ def Output():
 
     if model.predict(df) == [0]:
         entry1.delete(8,tk.END)
-        entry1.insert(8,'Not Affected')
+        entry1.insert(9,'Not Affected')
     elif model.predict(df) == [1]:
         entry1.delete(8,tk.END)
         entry1.insert(8,'Affected')
