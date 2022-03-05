@@ -80,5 +80,4 @@ def Output():
         entry1.insert(8,'Affected')
 
     
-
 window.mainloop()
