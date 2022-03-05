@@ -77,7 +77,7 @@ def Output():
         entry1.insert(9,'Not Affected')
     elif model.predict(df) == [1]:
         entry1.delete(8,tk.END)
-        entry1.insert(8,'Affected')
+        entry1.insert(9,'Affected')
 
     
 window.mainloop()
